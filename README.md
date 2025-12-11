@@ -6,6 +6,7 @@
 **Clone o repositório usando o seguinte comando:**
 ```git clone git@github.com:oBenjaa/AutoClicker.git``
 **Instale as biblioteca Pynput usando os seguinte comando:**
-`pip install pynput`
+"pip install pypunt"
 
 Desenvolvido com ❤️ por [Benja](https://github.com/oBenjaa)
+
